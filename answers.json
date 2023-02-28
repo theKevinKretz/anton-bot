@@ -1,0 +1,465 @@
+[
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "atomIndex": 0,
+                    "correct": true,
+                    "position": 50,
+                    "duration": 50
+                },
+                {
+                    "atomIndex": 1,
+                    "correct": true,
+                    "position": 100,
+                    "duration": 50
+                },
+                {
+                    "atomIndex": 2,
+                    "correct": true,
+                    "position": 150,
+                    "duration": 50
+                },
+                {
+                    "atomIndex": 3,
+                    "correct": true,
+                    "position": 200,
+                    "duration": 50
+                },
+                {
+                    "atomIndex": 4,
+                    "correct": true,
+                    "position": 250,
+                    "duration": 50
+                },
+                {
+                    "atomIndex": 5,
+                    "correct": true,
+                    "position": 300,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "dragCard",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atoms": [
+                {
+                    "a": "zwei aufeinander&shy;folgende oder benachbarte W\u00f6rter mit <b>demselben Anfangslaut</b>",
+                    "sound": "zwei aufeinanderfolgende oder benachbarte W\u00f6rter mit <b>demselben Anfangslaut</b>",
+                    "b": "<i>Alliteration, die</i>"
+                },
+                {
+                    "a": "eine <b>H\u00e4ufung</b> von W\u00f6rtern aus einem \u00e4hnlichen Themenfeld",
+                    "b": "<i>Akkumulation, die</i>"
+                },
+                {
+                    "a": "eine zum Beispiel gesellschaftlich gepr\u00e4gte <b>Verbildlichung</b> eines abstrakten Begriffs",
+                    "b": "<i>Allegorie, die</i>"
+                },
+                {
+                    "a": "eine <b>Anspielung</b>",
+                    "b": "<i>Allusion, die</i>"
+                },
+                {
+                    "a": "das <b>Abbrechen eines Satzes</b> oder ein <b>grammatischer Bruch</b> im Satz",
+                    "b": "<i>Anakoluth, das</i>"
+                },
+                {
+                    "a": "ein Wort, aus dessen <b>Buchstaben</b> sich ein <b>anderes Wort bilden</b> l\u00e4sst",
+                    "b": "<i>Anagramm, das</i>"
+                }
+            ],
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'Verbildlichung eines abstrakten Begriffs' + 'Allegorie'",
+                    "correct": true,
+                    "position": 50,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "Verbildlichung eines abstrakten Begriffs",
+                "b": "Allegorie"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'H\u00e4ufung von W\u00f6rtern aus einem \u00e4hnlichen Themenfeld' + 'Akkumu&shy;lation'",
+                    "correct": true,
+                    "position": 100,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "H\u00e4ufung von W\u00f6rtern aus einem \u00e4hnlichen Themenfeld",
+                "b": "Akkumu&shy;lation",
+                "sound": "Akkumulation"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'zwei aufeinander&shy;folgende oder benachbarte W\u00f6rter mit demselben Anfangslaut' + 'Alliteration'",
+                    "correct": true,
+                    "position": 150,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "zwei aufeinander&shy;folgende oder benachbarte W\u00f6rter mit demselben Anfangslaut",
+                "b": "Alliteration"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst' + 'Anagramm'",
+                    "correct": true,
+                    "position": 50,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst",
+                "b": "Anagramm",
+                "sound": "Anna-Gramm"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'Satzabbruch oder grammatischer Bruch im Satz' + 'Anakoluth'",
+                    "correct": true,
+                    "position": 100,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "Satzabbruch oder grammatischer Bruch im Satz",
+                "b": "Anakoluth"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "'Anspielung' + 'Allusion'",
+                    "correct": true,
+                    "position": 150,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "listMatch",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "Anspielung",
+                "b": "Allusion",
+                "sound": "Allu Sion"
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Alliteration",
+                    "correct": true,
+                    "position": 50,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>\u201eFlie\u00dfe, flie\u00dfe lieber Fluss!\u201c (Goethe)</i>",
+                "b": "++Alliteration Allusion",
+                "image": {
+                    "image": "bigstockphoto_152272691",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Alliteration</b>: zwei aufeinanderfolgende oder benachbarte W\u00f6rter mit demselben Anfangslaut<br><b>Allusion</b>: eine Anspielung",
+                    "sound": "<b>Alliteration</b>: zwei aufeinanderfolgende oder benachbarte W\u00f6rter mit <b>demselben Anfangslaut</b>. <b>Allu Sion</b>: eine Anspielung.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Akkumulation",
+                    "correct": true,
+                    "position": 100,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>Durch die Stra\u00dfen str\u00f6men Autos, Motorr\u00e4der, Busse, Fahrr\u00e4der und Transporter.</i>",
+                "sound": "Durch die Stra\u00dfen str\u00f6men Autos, Motor-r\u00e4der, Busse, Fahrr\u00e4der und Transporter",
+                "b": "++Akkumulation Alliteration",
+                "image": {
+                    "image": "adobe_211714454_crop-500-0-2000-2000",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Akkumulation</b>: H\u00e4ufung von W\u00f6rtern aus einem \u00e4hnlichen Themenfeld <br><b>Alliteration</b>: zwei aufeinanderfolgende oder benachbarte W\u00f6rter mit demselben Anfangslaut",
+                    "sound": "Akkumulation: H\u00e4ufung von W\u00f6rtern aus einem \u00e4hnlichen Themenfeld. <b>Alliteration</b>: zwei aufeinanderfolgende oder benachbarte W\u00f6rter mit demselben Anfangslaut.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Anagramm",
+                    "correct": true,
+                    "position": 150,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>Ampel \u2013 Lampe</i>",
+                "b": "++Anagramm Allegorie",
+                "image": {
+                    "image": "adobe_27592961_crop-1279-0-2592-2592",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Allegorie</b>: Verbildlichung eines abstrakten Begriffs <br><b>Anagramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst",
+                    "sound": "<b>Allegorie</b>: Verbildlichung eines abstrakten Begriffs. <b>Anna Gramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Anakoluth",
+                    "correct": true,
+                    "position": 200,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>Wenn diese Figur&nbsp;\u2026 sollten nicht hier&nbsp;\u2026</i>",
+                "sound": "Wenn diese Figur. Sollten nicht hier?",
+                "b": "++Anakoluth Anagramm",
+                "image": {
+                    "image": "bigstockphoto_97419779",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Anagramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst <br><b>Anakoluth</b>: Satzabbruch oder grammatischer Bruch im Satz",
+                    "sound": "<b>Anna Gramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst. <b>Anakoluth</b>: Satzabbruch oder grammatischer Bruch im Satz.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Allegorie",
+                    "correct": true,
+                    "position": 250,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>Justitia \u2013 Gerechtigkeit</i>",
+                "b": "++Allegorie Anagramm",
+                "image": {
+                    "image": "bigstockphoto_219544879",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Allegorie</b>: Verbildlichung eines abstrakten Begriffs <br><b>Anagramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst",
+                    "sound": "<b>Allegorie</b>: Verbildlichung eines abstrakten Begriffs. <b>Anna Gramm</b>: ein Wort, aus dessen Buchstaben sich ein anderes Wort bilden l\u00e4sst.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    },
+    {
+        "event": {
+            "event": "score",
+            "mistakes": 0,
+            "actions": [
+                {
+                    "text": "Allusion",
+                    "correct": true,
+                    "position": 300,
+                    "duration": 50
+                }
+            ],
+            "levelPuid": "c-natdeu-11/s96mca",
+            "round": 0,
+            "trainer": "buttons",
+            "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+            "atom": {
+                "a": "<i>Pinocchio h\u00e4tte er alle Ehre gemacht.</i>",
+                "b": "++Allusion Anakoluth",
+                "image": {
+                    "image": "adobe_31765289",
+                    "width": 250
+                },
+                "hint": {
+                    "text": "<b>Allusion</b>: eine Anspielung <br><b>Anakoluth</b>: Satzabbruch oder grammatischer Bruch im Satz.",
+                    "sound": "<b>Allu Sion</b>: eine Anspielung. <b>Anakoluth</b>: Satzabbruch oder grammatischer Bruch im Satz.",
+                    "autoplay": false
+                }
+            },
+            "src": "jASh",
+            "created": "2023-02-14T11:44:13.096Z",
+            "inserted": "2023-02-14T11:44:13.096Z"
+        },
+        "exists": false,
+        "archive": true
+    }
+]

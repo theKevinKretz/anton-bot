@@ -1,0 +1,28 @@
+{
+    "event": {
+        "event": "score",
+        "mistakes": 0,
+        "actions": [
+            {
+                "text": "'Häufung von Wörtern aus einem ähnlichen Themenfeld' + 'Akkumu&shy;lation'",
+                "correct": true,
+                "position": 4892,
+                "duration": 153
+            }
+        ],
+        "levelPuid": "c-natdeu-11/s96mca",
+        "round": 2,
+        "trainer": "listMatch",
+        "level": "/topic-02-sprachliche-mittel/block-01-Sprachliche-Mittel-A-K/level-01",
+        "atom": {
+            "a": "Häufung von Wörtern aus einem ähnlichen Themenfeld",
+            "b": "Akkumu&shy;lation",
+            "sound": "Akkumulation"
+        },
+        "src": "jASh",
+        "created": "2023-02-07T16:35:23.666Z",
+        "inserted": "2023-02-07T16:36:12.957Z"
+    },
+    "exists": false,
+    "archive": true
+}
